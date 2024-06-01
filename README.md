@@ -1,17 +1,17 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://www.tiktok.com/@rodylie23?_t=8mogjpcmyov&_r=1'/></a>
+<a><img src='https://www.tiktok.com/@rodylie23?_t=8mogjpcmyov&_r=1'/></a>
  <h1 align="center"> HUNCHO MD V2 </h1>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://whatsapp.com/channel/0029VaRHRQj1Hsq1dVYRco3Y'/></a>
       
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐇𝐔𝐍𝐂𝐇𝐎_𝐌𝐃;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+𝐊𝐄𝐈𝐓𝐇𝐊𝐄𝐈𝐙𝐙𝐀𝐇" alt="Typing SVG" /></a>
+<a href="https://whatsapp.com/channel/0029VaRHRQj1Hsq1dVYRco3Y"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐇𝐔𝐍𝐂𝐇𝐎_𝐌𝐃;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+RODGERSOWUOR" alt="Typing SVG" /></a>
   </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> HUNCHO MD💥, A Simple WhatsApp user BOT, Created by Keith Tech.
+<p align="center"> RODYLIE23 MD💥, A Simple WhatsApp user BOT, Created by Rodylie23 Tech.
 </p>
 
 
