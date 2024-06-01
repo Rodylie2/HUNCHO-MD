@@ -31,7 +31,7 @@
 
 
 <p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
+  <a href="https://whatsapp.com/channel/0029VaRHRQj1Hsq1dVYRco3Y">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
@@ -41,7 +41,7 @@
 ## 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗛𝗘 𝗢𝗪𝗡𝗘𝗥 𝗨𝗦𝗜𝗡𝗚 𝗧𝗛𝗘 𝗕𝗘𝗟𝗢𝗪 𝗕𝗨𝗧𝗧𝗢𝗡 𝗔𝗣𝗣
 
 <p align="left">
-  <a href="https://wa.me/254748387615?text=Hello%20aKeith~tech%20...%20I%20need%20some%20help%20in%20huncho%20md">
+  <a href="https://wa.me/254796895732?text=Hello%20Rodylie23 ~tech%20...%20I%20need%20some%20help%20in%20rodylie23%20md">
     <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    
@@ -53,7 +53,7 @@
 
 1, <a href="https://github.com/Keithkeizzah/HUNCHO-MD/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 
-2, TAP ON KEITH TECH APP DOWN THERE
+2, TAP ON RODYLIE23 TECH APP DOWN THERE
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Keith Tech App..
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Rodylie23 Tech App..
 
 ## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  𝐇𝐔𝐍𝐂𝐇𝐎 𝐌𝐃
 <h1 align="center">
@@ -75,7 +75,7 @@
 
  <h1 align="center">
 
-***༒𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐈𝐒 𝐓𝐀𝐁 𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐊𝐄𝐈𝐓𝐇 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐀𝐏𝐏😊😊༒***
+***༒𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐈𝐒 𝐓𝐀𝐁 𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 RODYLIE23 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐀𝐏𝐏😊😊༒***
 
 
   ***<p align="center"><a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/">
@@ -94,7 +94,7 @@
 ## Contributions
 
 
-Contributions to *HUNCHO-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *RODYLIE23-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
 
 <br/> <div align="center">
